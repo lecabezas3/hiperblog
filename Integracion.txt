@@ -1,10 +1,12 @@
 
 Integracion Continua
 
-Politecnico Gran Colombiano
-
 Integrantes:
 
 Leonardo Cabezas
+
+Juan Peres
+
+Politecnico Gran Colombiano
 
 Noviembre 11 del 2021
